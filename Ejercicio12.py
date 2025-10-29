@@ -7,7 +7,7 @@ class RegistroApp:
         root.title("Ejercicio 12 - Registro de Usuarios")
         root.geometry("520x360")
 
-        # Menú
+
         menubar = tk.Menu(root)
         archivo = tk.Menu(menubar, tearoff=0)
         archivo.add_command(label="Guardar Lista", command=self.guardar_lista)
@@ -16,7 +16,6 @@ class RegistroApp:
         menubar.add_cascade(label="Salir", menu=tk.Menu(menubar, tearoff=0))
         root.config(menu=menubar)
 
-        # Marco superior con Entry (nombre) y Scale (edad) y Radiobuttons (género)
         marco = tk.Frame(root)
         marco.pack(padx=10, pady=8, fill="x")
 
@@ -34,10 +33,8 @@ class RegistroApp:
         tk.Radiobutton(marco, text="Masculino", variable=self.var_genero, value="Masculino").grid(row=2, column=1, sticky="w")
         tk.Radiobutton(marco, text="Femenino", variable=self.var_genero, value="Femenino").grid(row=2, column=2, sticky="w")
 
-        # Botón Añadir
         tk.Button(marco, text="Añadir", command=self.añadir_usuario).grid(row=0, column=4, rowspan=2, padx=10)
 
-        # Listbox con scrollbar (lista de usuarios)
         caja_lista = tk.Frame(root)
         caja_lista.pack(padx=10, pady=6, fill="both", expand=True)
 
@@ -48,14 +45,12 @@ class RegistroApp:
         scroll.pack(side="right", fill="y")
         self.listbox.config(yscrollcommand=scroll.set)
 
-        # Botones inferiores: Eliminar y Salir
         botones = tk.Frame(root)
         botones.pack(pady=6)
 
         tk.Button(botones, text="Eliminar seleccionado", command=self.eliminar_usuario).pack(side="left", padx=8)
         tk.Button(botones, text="Salir", command=root.quit).pack(side="left", padx=8)
 
-        # Almacenamiento interno de usuarios (lista de tuplas)
         self.usuarios = []
 
     def añadir_usuario(self):
@@ -80,12 +75,9 @@ class RegistroApp:
         del self.usuarios[idx]
 
     def guardar_lista(self):
-        # Según la enunciación, basta con mostrar un messagebox.
-        # Si quisieras guardar realmente a disco: podríamos implementar con filedialog + escritura.
         messagebox.showinfo("Guardar Lista", "Función 'Guardar Lista' (aún no implementada).")
 
     def cargar_lista(self):
-        # Según la enunciación, basta con mostrar un messagebox.
         messagebox.showinfo("Cargar Lista", "Función 'Cargar Lista' (aún no implementada).")
 
 if __name__ == "__main__":
