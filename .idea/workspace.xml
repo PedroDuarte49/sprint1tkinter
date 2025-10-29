@@ -4,10 +4,10 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="8569d0b8-8957-4874-96d7-570c23b96a0f" name="Changes" comment="Ejercicio 1, 2 y 3">
-      <change afterPath="$PROJECT_DIR$/Ejercicio4.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Ejercicio5.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Ejercicio6.py" afterDir="false" />
+    <list default="true" id="8569d0b8-8957-4874-96d7-570c23b96a0f" name="Changes" comment="Ejercicio 4, 5 y 6">
+      <change afterPath="$PROJECT_DIR$/Ejercicio7.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Ejercicio8.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Ejercicio9.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -44,6 +44,9 @@
     <setting file="file://$PROJECT_DIR$/Ejercicio4.py" root0="SKIP_INSPECTION" />
     <setting file="file://$PROJECT_DIR$/Ejercicio5.py" root0="SKIP_INSPECTION" />
     <setting file="file://$PROJECT_DIR$/Ejercicio6.py" root0="SKIP_INSPECTION" />
+    <setting file="file://$PROJECT_DIR$/Ejercicio7.py" root0="SKIP_INSPECTION" />
+    <setting file="file://$PROJECT_DIR$/Ejercicio8.py" root0="SKIP_INSPECTION" />
+    <setting file="file://$PROJECT_DIR$/Ejercicio9.py" root0="SKIP_INSPECTION" />
   </component>
   <component name="ProjectColorInfo">{
   &quot;customColor&quot;: &quot;&quot;,
@@ -54,17 +57,23 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent">{
-  &quot;keyToString&quot;: {
-    &quot;ModuleVcsDetector.initialDetectionPerformed&quot;: &quot;true&quot;,
-    &quot;Python.Ejercicio1.executor&quot;: &quot;Run&quot;,
-    &quot;Python.Ejercicio2.executor&quot;: &quot;Run&quot;,
-    &quot;Python.Ejercicio3.executor&quot;: &quot;Run&quot;,
-    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
-    &quot;RunOnceActivity.git.unshallow&quot;: &quot;true&quot;,
-    &quot;git-widget-placeholder&quot;: &quot;master&quot;
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "ModuleVcsDetector.initialDetectionPerformed": "true",
+    "Python.Ejercicio1.executor": "Run",
+    "Python.Ejercicio2.executor": "Run",
+    "Python.Ejercicio3.executor": "Run",
+    "Python.Ejercicio4.executor": "Run",
+    "Python.Ejercicio5.executor": "Run",
+    "Python.Ejercicio6.executor": "Run",
+    "Python.Ejercicio7.executor": "Run",
+    "Python.Ejercicio8.executor": "Run",
+    "Python.Ejercicio9.executor": "Run",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "RunOnceActivity.git.unshallow": "true",
+    "git-widget-placeholder": "master"
   }
-}</component>
+}]]></component>
   <component name="SharedIndexes">
     <attachedChunks>
       <set>
@@ -88,11 +97,20 @@
       <option name="project" value="LOCAL" />
       <updated>1761644625991</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="Ejercicio 4, 5 y 6">
+      <option name="closed" value="true" />
+      <created>1761724597262</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1761724597262</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="Ejercicio 1, 2 y 3" />
-    <option name="LAST_COMMIT_MESSAGE" value="Ejercicio 1, 2 y 3" />
+    <MESSAGE value="Ejercicio 4, 5 y 6" />
+    <option name="LAST_COMMIT_MESSAGE" value="Ejercicio 4, 5 y 6" />
   </component>
 </project>
