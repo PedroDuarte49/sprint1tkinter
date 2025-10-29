@@ -4,15 +4,11 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="8569d0b8-8957-4874-96d7-570c23b96a0f" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/inspectionProfiles/profiles_settings.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/sprint1tkinter.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Ejercicio1.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Ejercicio2.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Ejercicio3.py" afterDir="false" />
+    <list default="true" id="8569d0b8-8957-4874-96d7-570c23b96a0f" name="Changes" comment="Ejercicio 1, 2 y 3">
+      <change afterPath="$PROJECT_DIR$/Ejercicio4.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Ejercicio5.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Ejercicio6.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -29,29 +25,46 @@
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
+  <component name="GitHubPullRequestSearchHistory">{
+  &quot;lastFilter&quot;: {
+    &quot;state&quot;: &quot;OPEN&quot;,
+    &quot;assignee&quot;: &quot;PedroDuarte49&quot;
+  }
+}</component>
+  <component name="GithubPullRequestsUISettings">{
+  &quot;selectedUrlAndAccountId&quot;: {
+    &quot;url&quot;: &quot;https://github.com/PedroDuarte49/sprint1tkinter.git&quot;,
+    &quot;accountId&quot;: &quot;6ddd400e-5a9b-43dc-b7d1-28be39de1487&quot;
+  }
+}</component>
   <component name="HighlightingSettingsPerFile">
     <setting file="file://$PROJECT_DIR$/Ejercicio1.py" root0="SKIP_INSPECTION" />
     <setting file="file://$PROJECT_DIR$/Ejercicio2.py" root0="SKIP_INSPECTION" />
     <setting file="file://$PROJECT_DIR$/Ejercicio3.py" root0="SKIP_INSPECTION" />
+    <setting file="file://$PROJECT_DIR$/Ejercicio4.py" root0="SKIP_INSPECTION" />
+    <setting file="file://$PROJECT_DIR$/Ejercicio5.py" root0="SKIP_INSPECTION" />
+    <setting file="file://$PROJECT_DIR$/Ejercicio6.py" root0="SKIP_INSPECTION" />
   </component>
-  <component name="ProjectColorInfo"><![CDATA[{
-  "customColor": "",
-  "associatedIndex": 7
-}]]></component>
+  <component name="ProjectColorInfo">{
+  &quot;customColor&quot;: &quot;&quot;,
+  &quot;associatedIndex&quot;: 7
+}</component>
   <component name="ProjectId" id="34giaczRSGayIcU3QlcCBU6OtCA" />
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent"><![CDATA[{
-  "keyToString": {
-    "ModuleVcsDetector.initialDetectionPerformed": "true",
-    "Python.Ejercicio1.executor": "Run",
-    "RunOnceActivity.ShowReadmeOnStart": "true",
-    "RunOnceActivity.git.unshallow": "true",
-    "git-widget-placeholder": "master"
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;ModuleVcsDetector.initialDetectionPerformed&quot;: &quot;true&quot;,
+    &quot;Python.Ejercicio1.executor&quot;: &quot;Run&quot;,
+    &quot;Python.Ejercicio2.executor&quot;: &quot;Run&quot;,
+    &quot;Python.Ejercicio3.executor&quot;: &quot;Run&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.git.unshallow&quot;: &quot;true&quot;,
+    &quot;git-widget-placeholder&quot;: &quot;master&quot;
   }
-}]]></component>
+}</component>
   <component name="SharedIndexes">
     <attachedChunks>
       <set>
@@ -67,6 +80,19 @@
       <option name="presentableId" value="Default" />
       <updated>1761641683765</updated>
     </task>
+    <task id="LOCAL-00001" summary="Ejercicio 1, 2 y 3">
+      <option name="closed" value="true" />
+      <created>1761644625991</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1761644625991</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="Ejercicio 1, 2 y 3" />
+    <option name="LAST_COMMIT_MESSAGE" value="Ejercicio 1, 2 y 3" />
   </component>
 </project>
